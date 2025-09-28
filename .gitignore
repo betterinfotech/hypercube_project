@@ -1,3 +1,12 @@
 # IDE
 .idea/
 
+# Don't want the DB
+etl.db
+
+# Python cache
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
